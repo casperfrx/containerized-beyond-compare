@@ -1,6 +1,5 @@
 .git/
 .gitignore
-./dev
 README.md
 CHANGELOG.md
-dev/instance/
+.idea/
